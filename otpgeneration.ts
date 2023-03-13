@@ -28,7 +28,7 @@ function handleSubmit(event: Event) {
   const nameInput = document.getElementById('name') as HTMLInputElement;
   const mobileInput = document.getElementById('mobile') as HTMLInputElement;
   const otpInput = document.getElementById('otp') as HTMLInputElement;
-  //hellow
+
   
   // Get the values from the form fields
   const aadhar = aadharInput.value;
